@@ -53,7 +53,6 @@ Copy code
 
 To run the full pipeline locally (offline mode):
 
-```bash
 python scripts/extract_sales_data.py
 python scripts/transform_clean_data.py
 python scripts/enrich_product_metrics.py
